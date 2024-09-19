@@ -38,7 +38,7 @@ export default function Home() {
           </div>
           <div className="w-full md:w-2/3">
             <p className="mb-4">
-              Hello! I'm Thomas, a versatile entrepreneur and tech professional with a passion for innovation and growth. My journey began at 20 when I founded a hemp farm, showcasing my early entrepreneurial spirit. This experience laid the groundwork for my diverse career path.
+              Hello! I&apos;m Thomas, a versatile entrepreneur and tech professional with a passion for innovation and growth. My journey began at 20 when I founded a hemp farm, showcasing my early entrepreneurial spirit. This experience laid the groundwork for my diverse career path.
             </p>
             <p className="mb-4">
               A significant milestone in my career was founding Traddoo, a proprietary trading firm that achieved over 7 figures in revenue in its first year. This success was largely due to my expertise in digital marketing, particularly in social media strategies.
